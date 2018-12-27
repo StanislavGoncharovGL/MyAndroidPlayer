@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My.Media.Application</string>
+    <string name="stream">Stream</string>
+    <string name="sd">SD</string>
+    <string name="uri">Uri</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
 </resources>
