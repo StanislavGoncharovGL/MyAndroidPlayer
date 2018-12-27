@@ -10,7 +10,7 @@
         android:id="@+id/open"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="onOpenButtonCloick"
+        android:onClick="onOpenButtonClick"
         android:text="Open"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/play"
@@ -28,4 +28,12 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/open"
         app:layout_constraintTop_toTopOf="@+id/open" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World"
+        tools:layout_editor_absoluteX="158dp"
+        tools:layout_editor_absoluteY="203dp" />
 </android.support.constraint.ConstraintLayout>
