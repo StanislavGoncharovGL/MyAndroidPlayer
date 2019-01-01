@@ -1,3 +1,7 @@
+/*
+https://startandroid.ru/ru/uroki/vse-uroki-spiskom/236-urok-126-media-mediaplayer-audiovideo-pleer-osnovnye-vozmozhnosti.html
+ */
+
 package com.example.localadmin.mymediaapplication;
 
 import android.content.Intent;
